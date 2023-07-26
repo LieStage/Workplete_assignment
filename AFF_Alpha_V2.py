@@ -923,4 +923,7 @@ __name__ == "__main__"
             create_window()
         except KeyboardInterrupt:
             print("\n[!] Ctrl+C detected, exiting gracefully.")
+            print ("\n done")
             exit(0)
+
+
